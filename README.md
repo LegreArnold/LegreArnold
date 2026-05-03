@@ -1,7 +1,4 @@
 # Welcome to my GitHub page
-
-[![LinkedIn](https://www.linkedin.com/in/boly-arnold-legre-a9157a254/?skipRedirect=true)
-
 ---
 
 ## Some projects
@@ -86,12 +83,4 @@ Commercial data analysis in a Salesforce developer environment, tracking the sal
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![LegreArnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegreArnold&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegreArnold&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
