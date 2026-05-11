@@ -1,30 +1,31 @@
-# Welcome to my GitHub page
+# Bienvenue sur mon GitHub
 ---
 
-## Some projects
+## Mes projets
 
-### Market Risk Monitor — Real-Time Financial Risk Surveillance
-Automated market risk monitoring system detecting anomalies 
-and generating real-time alerts on 6 financial assets.
+### Market Risk Monitor — Surveillance du Risque Marché en Temps Réel
+Système automatisé de surveillance du risque marché, détectant les anomalies
+et générant des alertes en temps réel sur 6 actifs financiers.
 
-- Automated data ingestion via Yahoo Finance API (S&P500, Nasdaq, BTC, Apple, Tesla, EUR/USD)
-- Statistical anomaly detection using Z-Score (91 anomalies detected over 12 months)
-- 3-level alert system: GREEN / ORANGE / RED based on volatility and Z-Score
-- Interactive dashboard with real-time risk metrics and live deployment
+- Ingestion automatique des données via l'API Yahoo Finance (S&P500, Nasdaq, BTC, Apple, Tesla, EUR/USD)
+- Détection statistique des anomalies par Z-Score (91 anomalies détectées sur 12 mois)
+- Système d'alertes à 3 niveaux : VERT / ORANGE / ROUGE basé sur la volatilité et le Z-Score
+- Dashboard interactif avec métriques de risque en temps réel et déploiement live
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### BuildTrack — Financial Steering & Business Intelligence
+---
 
-Platform for financial performance monitoring, enabling budget variance analysis through interactive dashboards.
+### BuildTrack — Pilotage Financier & Business Intelligence
+Plateforme de suivi de la performance financière, permettant l'analyse des écarts budgétaires via des tableaux de bord interactifs.
 
-- Relational database modeling (4 tables, 3,000+ rows)
-- SQL analysis: joins, aggregations, financial KPIs
-- Power BI dashboard with dynamic indicators and interactive filters
-- Business indicator documentation (data catalog)
+- Modélisation d'une base de données relationnelle (4 tables, 3 000+ lignes)
+- Analyse SQL : jointures, agrégations, KPIs financiers
+- Dashboard Power BI avec indicateurs dynamiques et filtres interactifs
+- Documentation des indicateurs métier (catalogue de données)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -33,15 +34,14 @@ Platform for financial performance monitoring, enabling budget variance analysis
 
 ---
 
-### EnviroTrack — Environmental Inspection Monitoring (ICPE)
+### EnviroTrack — Pilotage de l'Inspection Environnementale (ICPE)
+Outil de suivi et d'analyse de l'activité d'inspection des installations classées (ICPE), consolidant des données multi-sources pour produire des indicateurs clés.
 
-Tool for tracking and analyzing environmental inspection activities (ICPE), consolidating multi-source data to produce key indicators.
-
-- Consolidation of 4 data sources via Excel and Power Query
-- Dashboard with KPIs (non-compliances, risk levels)
-- SQL analysis of infractions, fines and budgets
-- Automated monthly PDF report generation (Python)
-- Data documentation (data catalog)
+- Consolidation de 4 sources de données via Excel et Power Query
+- Tableau de bord avec KPIs (non-conformités, niveaux de risque)
+- Analyse SQL des infractions, amendes et budgets
+- Génération automatique de rapports PDF mensuels (Python)
+- Documentation des données (catalogue de données)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,14 +49,13 @@ Tool for tracking and analyzing environmental inspection activities (ICPE), cons
 
 ---
 
-### Salesforce CRM Analysis — Sales Performance
+### Analyse CRM Salesforce — Performance Commerciale
+Analyse de données commerciales dans un environnement développeur Salesforce, suivi du pipeline de ventes et des indicateurs métier clés.
 
-Commercial data analysis in a Salesforce developer environment, tracking the sales pipeline and key business indicators.
-
-- Extraction and transformation of CRM data
-- Sales pipeline analysis (opportunities, conversion rate)
-- KPI dashboard creation in Power BI
-- Identification of performance improvement areas
+- Extraction et transformation des données CRM
+- Analyse du pipeline commercial (opportunités, taux de conversion)
+- Création de tableaux de bord KPIs sous Power BI
+- Identification des axes d'amélioration de la performance
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,28 +64,28 @@ Commercial data analysis in a Salesforce developer environment, tracking the sal
 
 ---
 
-## My favorite tools
+## Mes outils favoris
 
-### Programming and markup languages
+### Langages de programmation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Frameworks and libraries
+### Frameworks et bibliothèques
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Databases and cloud hosting
+### Bases de données et hébergement
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-### Software and tools
+### Logiciels et outils
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -96,5 +95,3 @@ Commercial data analysis in a Salesforce developer environment, tracking the sal
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
-
