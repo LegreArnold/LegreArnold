@@ -3,6 +3,20 @@
 
 ## Some projects
 
+### Market Risk Monitor — Real-Time Financial Risk Surveillance
+Automated market risk monitoring system detecting anomalies 
+and generating real-time alerts on 6 financial assets.
+
+- Automated data ingestion via Yahoo Finance API (S&P500, Nasdaq, BTC, Apple, Tesla, EUR/USD)
+- Statistical anomaly detection using Z-Score (91 anomalies detected over 12 months)
+- 3-level alert system: GREEN / ORANGE / RED based on volatility and Z-Score
+- Interactive dashboard with real-time risk metrics and live deployment
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ### BuildTrack — Financial Steering & Business Intelligence
 
 Platform for financial performance monitoring, enabling budget variance analysis through interactive dashboards.
